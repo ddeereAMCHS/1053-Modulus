@@ -7,7 +7,7 @@
       "input": "3\r\n5",
       "output": "odd\r\nodd\r\nsmaller",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "4\r\n2",
       "output": "even\r\neven\r\ngreater",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "7\r\n7",
       "output": "odd\r\nodd\r\nequal",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -37,7 +37,7 @@
       "input": "10\r\n9",
       "output": "even\r\nodd\r\ngreater",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
