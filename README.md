@@ -1,6 +1,6 @@
 # Modulus
 
-## Due: TWed 10/18 at 11:59 PM
+## Due: Wed 10/18 at 11:59 PM
 
 - Create a program called `Modulus.java`
 - Prompt the user for a number
